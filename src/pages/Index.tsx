@@ -2,17 +2,17 @@ import ArcGalleryHero from "@/components/ArcGalleryHero";
 
 const Index = () => {
   const images = [
-    "/freepik__enhance__98192.png",
-    "/LS.png",
-    "/freepik__a-closeup-shot-features-a-glossy-purple-crossshape__48873.png",
-    "/freepik__the-style-is-3d-model-with-octane-render-volumetri__57555.png",
-    "/eqirGoRIJPaIMgEUeliWpNxeFmI.jpg",
-    "/ultra-detailed_close-up_side_profile_of_a_dark-skinned_model_wearing_futuristic_chrome_wraparound_s_ps17q5ms2ptu5t6bdru6_2.png",
-    "/slide.png",
-    "/freepik__abstract-digital-art-featuring-a-series-of-horizon__489.png",
-    "/abstract-blue-gradient.webp",
-    "/VkvvhXlWo3hEBzcqwTpjd_aa4bf9ee998f4ec0b17a8bf16fe3e9e2.jpg",
-    "/hyperrealistic_commercial_product_photography_of_luxury_chrome_sunglasses_on_male_model_extreme_chi_fanguv2w9zx489lcivwa_2.png",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/99deffc9-389c-4395-be15-9de8d77301fa.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/2a9548ad-b6f2-4d6c-9bba-494344b0c501.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/b1419362-7e27-4f0b-9686-a09748365337.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/a14ab254-a152-4740-8182-cc949c7fb2a4.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/45a7f35d-4b90-4a45-bf89-9e52b67ac562.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/99deffc9-389c-4395-be15-9de8d77301fa.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/2a9548ad-b6f2-4d6c-9bba-494344b0c501.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/b1419362-7e27-4f0b-9686-a09748365337.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/a14ab254-a152-4740-8182-cc949c7fb2a4.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/45a7f35d-4b90-4a45-bf89-9e52b67ac562.jpg",
+    "https://cdn.poehali.dev/projects/3051d8e7-2234-4024-b614-41c2b560cf74/files/99deffc9-389c-4395-be15-9de8d77301fa.jpg",
   ];
 
   return (
